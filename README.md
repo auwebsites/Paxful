@@ -23,4 +23,4 @@ At this point, the seller can’t cancel the trade and it is secure to pay for t
 
 When both the buyer and the seller have verified that the transaction has been confirmed and all the terms have been met, the money will be released to the buyer’s wallet and the deal will be concluded.
 
-You can check out Paxful <a href="https://paxful.com/?r=ZxQ7Rbqm4kp">here</a>
+You can check out Paxful <a href="https://paxful.com/?r=ZxQ7Rbqm4kp">here.</a>
